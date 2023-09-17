@@ -8,5 +8,6 @@ $ curl --proto '=https' --tlsv1.3 -sS https://github.com/JxBP.gpg  | gpg --impor
 
 <br clear="left">
 
-Discord: JxBP#7562<br>
-Matrix: @jxbp:matrix.falconmc.org
+Discord: JxBP#7562  
+Matrix: @jxbp:matrix.falconmc.org  
+Reddit: [u/JxBP_](https://reddit.com/u/JxBP_)
