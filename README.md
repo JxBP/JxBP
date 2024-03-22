@@ -1,4 +1,4 @@
-# I moved to a Forgejo instance! Visit my profile [here](https://git.falconmc.org/JxBP).
+# I moved to Codeberg. You can visit my profile [here](https://codeberg.org/JxBP).
 
 ```sh
 $ curl --proto '=https' --tlsv1.3 -sS https://github.com/JxBP.gpg  | gpg --import
